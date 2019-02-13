@@ -1,0 +1,32 @@
+{
+  "name": "vue-joi-validation",
+  "version": "1.0.9",
+  "description": "vue.js validation plugin base on Joi ",
+  "main": "src/plugin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/farhadniaz/vue-joi-validation.git"
+  },
+  "keywords": [
+    "vuejs",
+    "validation",
+    "joi",
+    "vuej",
+    "plugin",
+    "vuejs",
+    "validation",
+    "validate"
+  ],
+  "author": "farhad azarbarzinniaz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/farhadniaz/vue-joi-validation/issues"
+  },
+  "homepage": "https://github.com/farhadniaz/vue-joi-validation#readme",
+  "dependencies": {
+    "joi-browser": "^13.4.0"
+  }
+}
